@@ -1,2 +1,3 @@
 # git2025
-test
+
+Repo for MSDS course
